@@ -3,10 +3,11 @@ Spigot plugin that allows creating custom NPCs.
 ### Native version: 1.18
 Tested working versions: 1.18, 1.18.1, 1.18.2
 ## Features
-- creating custom NPCs
+- creating custom NPCs,
+- set custom skin for NPC
 ## Planned features
 - persistent NPCs,
-- set custom skin for NPC,
+~~- set custom skin for NPC,~~
 - multiline NPC nicknames,
 - custom right click events,
 ### Edit the code
