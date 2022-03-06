@@ -7,7 +7,7 @@ Tested working versions: 1.18, 1.18.1, 1.18.2
 - set custom skin for NPC
 ## Planned features
 - persistent NPCs,
-~~- set custom skin for NPC,~~
+- ~~set custom skin for NPC~~,
 - multiline NPC nicknames,
 - custom right click events,
 ### Edit the code
