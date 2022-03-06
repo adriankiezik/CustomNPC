@@ -1,0 +1,11 @@
+name: CustomNPC
+version: 1.0
+author: Yumei
+main: me.yumei.customnpc.Main
+api-version: 1.18
+
+commands:
+  createnpc:
+    description: Creates NPC.
+    usage: /createnpc
+    permission: customnpc.create
